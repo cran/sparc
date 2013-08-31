@@ -1,0 +1,7 @@
+e7fe64bff8f7880462baff292ae4de28 *DESCRIPTION
+325ca0eb0b703e0b37f60ffd3fb634cc *NAMESPACE
+76949833a742374ec6c1f8d656dffc7a *R/sparc.R
+dd27e6c5c950470d5d47b9142ed9bad7 *man/sparc-package.Rd
+69a0cd559671f70a66608f40e72c5a0a *man/sparc.Rd
+8c36ed5dd311413c94c7a29d0ccc9fe8 *src/SGLM.c
+159bfac03abf266af99f9afb12aff13f *src/SLRM.c
